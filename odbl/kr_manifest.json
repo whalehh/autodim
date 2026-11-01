@@ -1,0 +1,33 @@
+{
+ "region": "kr",
+ "database": "kr.geojson (same content as the app asset kr.smt)",
+ "license": "Open Database License (ODbL) 1.0 — https://opendatacommons.org/licenses/odbl/1-0/",
+ "attribution": "© OpenStreetMap contributors",
+ "source": "Geofabrik extract https://download.geofabrik.de/asia/south-korea-latest.osm.pbf",
+ "osm_data_timestamp": "2026-10-31T21:23:06Z",
+ "built": "2026-11-01",
+ "app_asset": "brain/src/main/assets/tunnels/kr.smt",
+ "app_asset_sha256": "b0b4318e84172d55b5d0397346d3aa79621fc3a729a78d08eac0e6859d7c2aee",
+ "geojson_sha256": "f6ade92db9d81fbb1f786d2d954acace6092ac5e4fa6aba51a86304fcbd512a9",
+ "stats": {
+  "region": "kr",
+  "osm_base": "2026-10-31T21:23:06Z",
+  "raw_ways": 18810,
+  "merged": 18563,
+  "tunnels": 7030,
+  "tunnel": 6108,
+  "underpass": 846,
+  "parking_ramp": 76,
+  "named": 3353,
+  "oneway": 4468,
+  "parking_entrances": 2836,
+  "points": 20723,
+  "total_km": 3174.8,
+  "longest": [
+   10947,
+   "인제양양터널"
+  ],
+  "raw_bytes": 395302,
+  "asset_bytes": 238036
+ }
+}
